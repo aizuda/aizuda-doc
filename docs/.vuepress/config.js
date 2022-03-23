@@ -28,8 +28,8 @@ module.exports = {
           { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
           { text: '介绍', link: '/pages/a2f161/' },
           { text: '快速上手', link: '/pages/793dcb/' },
-          { text: '系统监控', link: '/pages/9xd041/' },
-          { text: '单点登录SSO', link: '/pages/9xd042/' }
+          { text: '单点登录SSO', link: '/pages/9xd005/' },
+          { text: '系统监控', link: '/pages/9xd010/' }
         ]
       },
       {
