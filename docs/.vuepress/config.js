@@ -46,11 +46,6 @@ module.exports = {
           { text: '开源低代码解决方案', link: '/pages/a10ce8/' }
         ]
       },
-      {
-        text: '配置', link: '/pages/a20ce8/', items: [
-          { text: '主题配置', link: '/pages/a20ce8/' }
-        ]
-      },
       { text: '问答', link: '/pages/9cc27d/' },
       { text: '💖支持', link: '/pages/1b12ed/' },
     ],
