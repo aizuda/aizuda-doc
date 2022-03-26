@@ -33,7 +33,9 @@ module.exports = {
       {
         text: '安全', link: '/pages/9xd005/', items: [
           { text: '单点登录SSO', link: '/pages/9xd005/' },
-          { text: '图片验证码', link: '/pages/9xd006/' }
+          { text: '图片验证码', link: '/pages/9xd006/' },
+          { text: '接口权限', link: '/pages/9xd007/' },
+          { text: '分布式锁（限流）', link: '/pages/9xd009/' }
         ]
       },
       {
